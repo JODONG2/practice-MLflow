@@ -1,0 +1,4 @@
+artifact_location: file:///Users/hyundong/workspace/MLOPS/Practice-MLflow/practice-MLflow/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: jodong2-first-experiment
