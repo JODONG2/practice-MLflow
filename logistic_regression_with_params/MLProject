@@ -1,0 +1,16 @@
+
+name: tutorial
+
+entry_points:
+    main:
+        parameters:
+            solver: 
+                type: string
+                default: "saga"
+            penalty:
+                type: string
+                default: "elasticnet"
+            l1_ratio:
+                type: float
+                default: 0.1
+        command: "python train.py {solver} {penalty} {l1_ratio}"
