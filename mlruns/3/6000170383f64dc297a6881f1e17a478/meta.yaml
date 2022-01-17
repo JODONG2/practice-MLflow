@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/hyundong/workspace/MLOPS/Practice-MLflow/practice-MLflow/mlruns/3/6000170383f64dc297a6881f1e17a478/artifacts
+end_time: 1642412592642
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 6000170383f64dc297a6881f1e17a478
+run_uuid: 6000170383f64dc297a6881f1e17a478
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1642412588616
+status: 3
+tags: []
+user_id: hyundong
