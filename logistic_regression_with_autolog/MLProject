@@ -1,8 +1,4 @@
 name: tutorial
-
 entry_points:
     main:
         command: "python train.py"
-
-
-
